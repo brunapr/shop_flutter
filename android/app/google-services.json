@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1097699579666",
+    "project_id": "lojaflutter-cfbd1",
+    "storage_bucket": "lojaflutter-cfbd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097699579666:android:b7dbc3ab7eef06353b45cb",
+        "android_client_info": {
+          "package_name": "br.com.ribeiro.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097699579666-qdasvuo2hqiskm003olgjarnthh1fuqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2UeZrRFc2wFTKZvc2t-SS1HMtFFOp4nI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097699579666-qdasvuo2hqiskm003olgjarnthh1fuqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
